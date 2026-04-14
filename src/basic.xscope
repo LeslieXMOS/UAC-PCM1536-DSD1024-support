@@ -1,0 +1,3 @@
+<xSCOPEconfig ioMode="basic" enabled="true">
+  <Probe name="TEST" type="CONTINUOUS" datatype="INT" units="mV" enabled="true"/>
+</xSCOPEconfig>
