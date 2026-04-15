@@ -9,6 +9,8 @@
 /* Audio Class version - Default is 2.0 */
 #define AUDIO_CLASS        (2)
 
+#define CODEC_MASTER       (0)
+
 /*** Defines relating to channel counts ***/
 /* Number of I2S channels to DACs*/
 #define I2S_CHANS_DAC      (0)

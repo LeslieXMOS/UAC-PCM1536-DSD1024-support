@@ -3,6 +3,9 @@
 
 #include "stdint.h"
 #include "sw_pll.h"
+#include "xcore/clock.h"
+#include "xcore/port.h"
+#include "platform.h"
 
 void mclk_98m_debug(void)
 {
