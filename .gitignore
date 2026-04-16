@@ -5,3 +5,5 @@ debug/*
 !debug/kingstvis_i2s_to_wav.py
 !debug/vcd_to_wav.py
 !debug/requirement.txt
+io_test/build
+io_test/sandbox
